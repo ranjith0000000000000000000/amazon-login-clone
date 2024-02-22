@@ -1,0 +1,119 @@
+body ,p ,h2{
+    margin: 0px;
+    
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.logo {
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 19px;
+    
+}
+
+span {
+    font-weight: 100;
+    font-size: small;
+}
+
+
+.login-form {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid rgb(236, 228, 228);
+    border-radius: 7px;
+    width: 260.125px;
+    padding: 20px 26px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+
+
+.sign {
+    font-weight: 400;
+    line-height: 1.2;
+    padding-bottom: 9px;
+}
+
+.email {
+    width: 100%;
+}
+
+
+.header-label {
+    font-size: smaller;
+    font-weight: 500;
+}
+
+.full-width {
+    width: 94%;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 5px;
+    padding: 5px 7px;
+    margin-bottom: 12px;
+    
+}
+
+.btn {
+    background-color: #f5f832;
+    width: 100%;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 5px;
+    padding: 7px 7px;
+    margin-top: 10px;
+
+}
+
+.btn:hover {
+    cursor: pointer;
+    background: rgb(245, 245, 14);
+}
+
+.para {
+    font-size: x-small;
+    font-weight: 400;
+    padding: 10px 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.check-box {
+    font-size: small;
+    font-weight: 400;
+    width: 100%;
+}
+
+.para-2{
+    display: flex;
+    justify-content: center;
+    font-size: x-small;
+    font-weight: 400;
+    padding: 15px 0px;
+    width: 100%;
+}
+
+.btn-1{
+    background-color:white;
+    width: 100%;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 5px;
+    padding: 7px 7px;
+    margin-top: 10px;
+}
+
+.btn-1:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+}
